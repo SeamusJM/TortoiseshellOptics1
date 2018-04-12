@@ -5,7 +5,7 @@ html {
 }
  header {
    display: flex;
-   background-image: url(../../resourses/images/glasses-bg.png);
+   background-image: url(../../resources/images/glasses-bg.png);
    background-size:  cover;
    height: 30rem;
 
